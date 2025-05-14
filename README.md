@@ -1,3 +1,6 @@
+# AI-Innovative-Writer-Assistant
+A Hugging Face-powered AI chatbot that assists with story writing, poetry, and creative content generation using modern transformer models.
+
 # ✍️ Creative Writer Assistant — No-Code Generative AI App
 
 🚀 An innovative no-code Generative AI app built on the HuggingChat platform that empowers users to generate creative stories, poems, and essays — no coding required.
