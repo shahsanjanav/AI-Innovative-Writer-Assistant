@@ -1,14 +1,26 @@
-# AI-Innovative-Writer-Assistant
-A Hugging Face-powered AI chatbot that assists with story writing, poetry, and creative content generation using modern transformer models.
+# ✨ AI Innovative Writer Assistant
 
-# ✍️ Creative Writer Assistant — No-Code Generative AI App
+A no-code Generative AI app that helps users write creative stories, poems, and essays using natural language — powered by HuggingChat and hosted on Hugging Face.
 
-🚀 An innovative no-code Generative AI app built on the HuggingChat platform that empowers users to generate creative stories, poems, and essays — no coding required.
+[![HuggingChat](https://img.shields.io/badge/Built%20With-HuggingChat-blueviolet?logo=huggingface)](https://huggingface.co/chat/assistant/67e2371776d15f879d970f8f)
+[![License](https://img.shields.io/badge/license-MIT-success)](LICENSE)
 
 ---
 
-## 🔗 Live Demo
-👉 [Launch the App](https://huggingface.co/chat/assistant/67e2371776d15f879d970f8f)
+## 🧠 What It Does
+
+This app allows users — especially non-coders, students, and writers — to:
+- 📖 Generate creative stories and poems
+- ✍️ Write essays based on prompts
+- 🛠️ Edit responses to personalize the content
+
+No installation. No code. Just type, prompt, and get inspired.
+
+---
+
+## 🔗 Try It Live
+
+👉 [Launch the App on Hugging Face](https://huggingface.co/chat/assistant/67e2371776d15f879d970f8f)
 
 ---
 
@@ -20,10 +32,14 @@ A Hugging Face-powered AI chatbot that assists with story writing, poetry, and c
 
 ---
 
-## 🛠️ Tech Stack
-- **Platform**: HuggingChat (HuggingFace)
-- **Development Style**: 100% No-code assistant builder
-- **Deployment**: Hosted directly on HuggingFace Chat Assistants- Hosted on HuggingFace Chat Assistants
+## 🛠 Tech Stack
+
+| Layer         | Tools Used          |
+|---------------|---------------------|
+| Interface     | HuggingChat UI      |
+| Platform      | Hugging Face Spaces |
+| Models        | LLaMA / Mistral (as per HuggingChat backend) |
+| App Type      | No-code Assistant   |
 
 ---
 
@@ -33,7 +49,9 @@ A Hugging Face-powered AI chatbot that assists with story writing, poetry, and c
 ---
 
 ## 📄 License
-This repository and its contents are released under the **MIT License**.  
+
+MIT License © 2025 Sanjana Shah
+
 Note: The HuggingChat interface and any underlying models are subject to their respective licenses.
 
 > ⚠️ **Disclaimer**: This app leverages HuggingChat, which runs models like Mistral, LLaMA, etc., each with their own license.  
@@ -42,7 +60,11 @@ Note: The HuggingChat interface and any underlying models are subject to their r
 ---
 
 ## 👤 Author
-shahsanjanav
-*ML/AI Enthusiast*
+
+**Sanjana Shah**  
+✨ Machine Learning & Generative AI Enthusiast  
+📫 [LinkedIn](https://www.linkedin.com/in/sanjanavshah)
 
 ---
+
+⭐ If you like this project, consider starring it on GitHub!
